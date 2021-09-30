@@ -1,7 +1,7 @@
 # Who Am I?
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YeongHyeon-Kim&fontSize=90)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeongHyeon-Kim)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeongHyeon-Kim)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=insut)](https://solved.ac/insut/)
 
